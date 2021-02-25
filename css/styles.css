@@ -18,7 +18,18 @@ margin-top: 15px}
 
 #ispus{color: aqua}
 
-body{background-image: url("file:/prj4-chapter3/images/city.png")}
+.header{height: 250px;
+background-image: url("../images/city.png");}
+
+.head-text{text-align: center;
+font-family: 'Akaya Telivigala', cursive;
+font-size: 40px;
+color: #FFFFFF}
+
+.undertext{text-align: center;
+color: #FF0000;
+font-size: 25px;
+font-family: 'Pacifico', cursive;}
 
 
 
